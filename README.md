@@ -11,3 +11,4 @@ Termékek nyilvántartása. Termék felvitel, lekérdezés. Raktáron lévő ter
 - x
 - x
 - x
+- x
