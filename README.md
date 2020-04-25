@@ -11,7 +11,7 @@ Termék adatok (név, ár, db, vonalkód, ...).
 - Raktáron lévő termékek összesítése (árban mennyi).
 
 ### Tervezési minták
-- x
+- Új termék létrehozása (felvitele): FACTORY
 - x
 - x
 - x
